@@ -1,0 +1,1335 @@
+{
+ "gestiones": [
+  {
+   "clave": "gestion_personal",
+   "nombre": "Gestión Personal"
+  },
+  {
+   "clave": "gestion_pedagogica",
+   "nombre": "Gestión Pedagógica"
+  },
+  {
+   "clave": "gestion_administrativa_comunitaria",
+   "nombre": "Gestión Administrativa y Comunitaria"
+  }
+ ],
+ "competencias": [
+  {
+   "clave": "autoconciencia",
+   "nombre": "Autoconciencia",
+   "gestion": "gestion_personal"
+  },
+  {
+   "clave": "emociones",
+   "nombre": "Manejo de emociones",
+   "gestion": "gestion_personal"
+  },
+  {
+   "clave": "comunicacion",
+   "nombre": "Comunicación asertiva",
+   "gestion": "gestion_personal"
+  },
+  {
+   "clave": "colaborativo",
+   "nombre": "Trabajo colaborativo",
+   "gestion": "gestion_personal"
+  },
+  {
+   "clave": "direccion",
+   "nombre": "Dirección del PEI",
+   "gestion": "gestion_pedagogica"
+  },
+  {
+   "clave": "orientacion",
+   "nombre": "Orientación pedagógica",
+   "gestion": "gestion_pedagogica"
+  },
+  {
+   "clave": "convivencia",
+   "nombre": "Convivencia",
+   "gestion": "gestion_pedagogica"
+  },
+  {
+   "clave": "evaluacion",
+   "nombre": "Fomento de la cultura de la evaluación",
+   "gestion": "gestion_pedagogica"
+  },
+  {
+   "clave": "vision",
+   "nombre": "Fomento de la visión compartida",
+   "gestion": "gestion_administrativa_comunitaria"
+  },
+  {
+   "clave": "planeacion",
+   "nombre": "Planeación institucional",
+   "gestion": "gestion_administrativa_comunitaria"
+  },
+  {
+   "clave": "redes",
+   "nombre": "Construcción de redes",
+   "gestion": "gestion_administrativa_comunitaria"
+  },
+  {
+   "clave": "alianzas",
+   "nombre": "Generación de alianzas",
+   "gestion": "gestion_administrativa_comunitaria"
+  },
+  {
+   "clave": "rendicion",
+   "nombre": "Rendición de cuentas",
+   "gestion": "gestion_administrativa_comunitaria"
+  }
+ ],
+ "items": [
+  {
+   "numero": 1,
+   "clave": "autoconciencia_2",
+   "competencia": "autoconciencia",
+   "escala": "frecuencia",
+   "frase": "Crear y promover espacios de reflexión con los integrantes de sus equipos de trabajo para identificar cómo pueden mejorar en sus roles."
+  },
+  {
+   "numero": 2,
+   "clave": "direccion_2",
+   "competencia": "direccion",
+   "escala": "frecuencia",
+   "frase": "Orientar a sus equipos de trabajo en relación con los planes y proyectos pedagógicos que componen el PEI."
+  },
+  {
+   "numero": 3,
+   "clave": "vision_2",
+   "competencia": "vision",
+   "escala": "frecuencia",
+   "frase": "Diseñar estrategias con sus equipos de trabajo para construir la visión compartida con la comunidad educativa."
+  },
+  {
+   "numero": 4,
+   "clave": "autoconciencia_3",
+   "competencia": "autoconciencia",
+   "escala": "frecuencia",
+   "frase": "Convocar a la comunidad educativa a participar en espacios de reflexión para que puedan identificar cómo pueden mejorar desde sus diversos roles."
+  },
+  {
+   "numero": 5,
+   "clave": "direccion_3",
+   "competencia": "direccion",
+   "escala": "frecuencia",
+   "frase": "Convocar a la comunidad educativa para hacer seguimiento y evaluación a los procesos y metas del PEI."
+  },
+  {
+   "numero": 6,
+   "clave": "planeacion_2",
+   "competencia": "planeacion",
+   "escala": "frecuencia",
+   "frase": "Diseñar con sus equipos de trabajo estrategias de planeación institucional en las que la comunidad educativa pueda participar."
+  },
+  {
+   "numero": 7,
+   "clave": "emociones_1",
+   "competencia": "emociones",
+   "escala": "frecuencia",
+   "frase": "Manifestar sus emociones y reconocer el impacto que tienen en cómo se relaciona con los otros integrantes de la comunidad educativa."
+  },
+  {
+   "numero": 8,
+   "clave": "orientacion_2",
+   "competencia": "orientacion",
+   "escala": "frecuencia",
+   "frase": "Generar espacios de reflexión pedagógica con sus equipos de trabajo para fortalecer las prácticas de los docentes."
+  },
+  {
+   "numero": 9,
+   "clave": "planeacion_3",
+   "competencia": "planeacion",
+   "escala": "frecuencia",
+   "frase": "Realizar procesos de planeación institucional con la participación de los diferentes actores de la comunidad educativa."
+  },
+  {
+   "numero": 10,
+   "clave": "emociones_2",
+   "competencia": "emociones",
+   "escala": "frecuencia",
+   "frase": "Realizar reuniones con su equipo de trabajo para identificar emociones propias y ajenas como fundamento para el mejoramiento del ambiente escolar."
+  },
+  {
+   "numero": 11,
+   "clave": "convivencia_3",
+   "competencia": "convivencia",
+   "escala": "frecuencia",
+   "frase": "Construir con los diferentes actores de la comunidad educativa los acuerdos de convivencia de la IE que reflejen la valoración de la diferencia como potencialidad."
+  },
+  {
+   "numero": 12,
+   "clave": "alianzas_2",
+   "competencia": "alianzas",
+   "escala": "frecuencia",
+   "frase": "Identificar con sus equipos de trabajo las organizaciones, entidades y actores comunitarios con los que se pueden generar alianzas para avanzar en los sueños de transformación de la IE."
+  },
+  {
+   "numero": 13,
+   "clave": "comunicacion_2",
+   "competencia": "comunicacion",
+   "escala": "frecuencia",
+   "frase": "Usar con sus equipos de trabajo herramientas para comunicarse asertivamente desde un enfoque apreciativo."
+  },
+  {
+   "numero": 14,
+   "clave": "evaluacion_2",
+   "competencia": "evaluacion",
+   "escala": "frecuencia",
+   "frase": "Analizar con sus equipos de trabajo la pertinencia de los procesos de evaluación de la IE en relación con los objetivos institucionales."
+  },
+  {
+   "numero": 15,
+   "clave": "rendicion_2",
+   "competencia": "rendicion",
+   "escala": "frecuencia",
+   "frase": "Diseñar con sus equipos de trabajo estrategias para realizar la rendición de cuentas garantizando que se aborden los procesos pedagógicos y los administrativos."
+  },
+  {
+   "numero": 16,
+   "clave": "colaborativo_2",
+   "competencia": "colaborativo",
+   "escala": "frecuencia",
+   "frase": "Implementar con sus equipos de trabajo los principios y herramientas de trabajo colaborativo."
+  },
+  {
+   "numero": 17,
+   "clave": "evaluacion_3",
+   "competencia": "evaluacion",
+   "escala": "frecuencia",
+   "frase": "Generar espacios de reflexión sobre los procesos de evaluación de la IE con los diferentes integrantes de la comunidad educativa."
+  },
+  {
+   "numero": 18,
+   "clave": "rendicion_3",
+   "competencia": "rendicion",
+   "escala": "frecuencia",
+   "frase": "Promueve la participación de la comunidad educativa en la rendición de cuentas de los procesos pedagógicos y administrativos de la IE."
+  },
+  {
+   "numero": 19,
+   "clave": "alianzas_1",
+   "competencia": "alianzas",
+   "escala": "acuerdo",
+   "frase": "Reconocer que en el territorio existen organizaciones, entidades y actores comunitarios que pueden aportar al logro de los objetivos de la IE mediante alianzas."
+  },
+  {
+   "numero": 20,
+   "clave": "autoconciencia_1",
+   "competencia": "autoconciencia",
+   "escala": "acuerdo",
+   "frase": "Dedicar tiempo a identificar las fortalezas y oportunidades de mejora que tiene como directivo docente."
+  },
+  {
+   "numero": 21,
+   "clave": "direccion_1",
+   "competencia": "direccion",
+   "escala": "acuerdo",
+   "frase": "Conocer la pertinencia del PEI en relación con las necesidades y potencialidades del contexto."
+  },
+  {
+   "numero": 22,
+   "clave": "vision_1",
+   "competencia": "vision",
+   "escala": "acuerdo",
+   "frase": "Comprender la importancia de construir una visión compartida con la comunidad en los procesos administrativos y pedagógicos de la IE."
+  },
+  {
+   "numero": 23,
+   "clave": "alianzas_3",
+   "competencia": "alianzas",
+   "escala": "acuerdo",
+   "frase": "Establecer alianzas con organizaciones, entidades y actores comunitarios del territorio para fortalecer los procesos institucionales."
+  },
+  {
+   "numero": 24,
+   "clave": "emociones_3",
+   "competencia": "emociones",
+   "escala": "acuerdo",
+   "frase": "Llevar a cabo estrategias para que los diferentes integrantes de la comunidad educativa puedan expresar de manera asertiva sus emociones."
+  },
+  {
+   "numero": 25,
+   "clave": "orientacion_1",
+   "competencia": "orientacion",
+   "escala": "acuerdo",
+   "frase": "Comprender la potencia de las prácticas pedagógicas como actos transformadores, productores de saber y movilizadores de la participación."
+  },
+  {
+   "numero": 26,
+   "clave": "vision_3",
+   "competencia": "vision",
+   "escala": "acuerdo",
+   "frase": "Construir con los diferentes actores de la comunidad educativa la visión compartida de la IE que recoja los sueños de transformación institucional."
+  },
+  {
+   "numero": 27,
+   "clave": "rendicion_1",
+   "competencia": "rendicion",
+   "escala": "acuerdo",
+   "frase": "Comprender la rendición de cuentas como un proceso de diálogo abierto y transparente con la comunidad educativa en la que se presentan los avances y retos institucionales."
+  },
+  {
+   "numero": 28,
+   "clave": "comunicacion_1",
+   "competencia": "comunicacion",
+   "escala": "acuerdo",
+   "frase": "Reconocer que tiene fortalezas y oportunidades de mejora para comunicarse de manera asertiva."
+  },
+  {
+   "numero": 29,
+   "clave": "orientacion_3",
+   "competencia": "orientacion",
+   "escala": "acuerdo",
+   "frase": "Promover la corresponsabilidad de los diferentes actores de la comunidad educativa en los procesos pedagógicos de la IE."
+  },
+  {
+   "numero": 30,
+   "clave": "planeacion_1",
+   "competencia": "planeacion",
+   "escala": "acuerdo",
+   "frase": "Comprender la importancia de la participación de la comunidad en los procesos de planeación institucional."
+  },
+  {
+   "numero": 31,
+   "clave": "comunicacion_3",
+   "competencia": "comunicacion",
+   "escala": "acuerdo",
+   "frase": "Comunicarse con la comunidad educativa utilizando herramientas de comunicación asertiva y desde un enfoque apreciativo."
+  },
+  {
+   "numero": 32,
+   "clave": "convivencia_1",
+   "competencia": "convivencia",
+   "escala": "acuerdo",
+   "frase": "Valorar las diferencias de los integrantes de la comunidad como elemento que potencia el mejoramiento del ambiente escolar."
+  },
+  {
+   "numero": 33,
+   "clave": "redes_1",
+   "competencia": "redes",
+   "escala": "acuerdo",
+   "frase": "Reconocer que su liderazgo y el de otros directivos docentes potencian el fortalecimiento de procesos institucionales y regionales."
+  },
+  {
+   "numero": 34,
+   "clave": "colaborativo_1",
+   "competencia": "colaborativo",
+   "escala": "acuerdo",
+   "frase": "Reconocer que tiene fortalezas y oportunidades de mejora para trabajar de manera colaborativa en la IE."
+  },
+  {
+   "numero": 35,
+   "clave": "convivencia_2",
+   "competencia": "convivencia",
+   "escala": "acuerdo",
+   "frase": "Construir con sus equipos de trabajo acuerdos que reflejen la valoración de la diferencia como potencialidad."
+  },
+  {
+   "numero": 36,
+   "clave": "redes_2",
+   "competencia": "redes",
+   "escala": "acuerdo",
+   "frase": "Identificar con sus equipos de trabajo posibilidades de intercambio con otras IE para fortalecer los aprendizajes y la convivencia."
+  },
+  {
+   "numero": 37,
+   "clave": "colaborativo_3",
+   "competencia": "colaborativo",
+   "escala": "acuerdo",
+   "frase": "Realizar actividades con la comunidad educativa en la que se trabaja de manera colaborativa."
+  },
+  {
+   "numero": 38,
+   "clave": "evaluacion_1",
+   "competencia": "evaluacion",
+   "escala": "acuerdo",
+   "frase": "Comprender la evaluación como una herramienta de aprendizaje y mejora continua."
+  },
+  {
+   "numero": 39,
+   "clave": "redes_3",
+   "competencia": "redes",
+   "escala": "acuerdo",
+   "frase": "Conformar redes para fortalecer los procesos de planeación de la IE."
+  }
+ ],
+ "pesos": [
+  {
+   "item": "autoconciencia_1",
+   "rol": "coor",
+   "peso": 0.51
+  },
+  {
+   "item": "autoconciencia_1",
+   "rol": "doce",
+   "peso": 0.34
+  },
+  {
+   "item": "autoconciencia_1",
+   "rol": "admi",
+   "peso": 0.05
+  },
+  {
+   "item": "autoconciencia_1",
+   "rol": "acud",
+   "peso": 0.05
+  },
+  {
+   "item": "autoconciencia_1",
+   "rol": "estu",
+   "peso": 0.05
+  },
+  {
+   "item": "autoconciencia_2",
+   "rol": "coor",
+   "peso": 0.3
+  },
+  {
+   "item": "autoconciencia_2",
+   "rol": "doce",
+   "peso": 0.3
+  },
+  {
+   "item": "autoconciencia_2",
+   "rol": "admi",
+   "peso": 0.2
+  },
+  {
+   "item": "autoconciencia_2",
+   "rol": "acud",
+   "peso": 0.1
+  },
+  {
+   "item": "autoconciencia_2",
+   "rol": "estu",
+   "peso": 0.1
+  },
+  {
+   "item": "autoconciencia_3",
+   "rol": "coor",
+   "peso": 0.2
+  },
+  {
+   "item": "autoconciencia_3",
+   "rol": "doce",
+   "peso": 0.2
+  },
+  {
+   "item": "autoconciencia_3",
+   "rol": "admi",
+   "peso": 0.2
+  },
+  {
+   "item": "autoconciencia_3",
+   "rol": "acud",
+   "peso": 0.2
+  },
+  {
+   "item": "autoconciencia_3",
+   "rol": "estu",
+   "peso": 0.2
+  },
+  {
+   "item": "emociones_1",
+   "rol": "coor",
+   "peso": 0.3
+  },
+  {
+   "item": "emociones_1",
+   "rol": "doce",
+   "peso": 0.2
+  },
+  {
+   "item": "emociones_1",
+   "rol": "admi",
+   "peso": 0.166
+  },
+  {
+   "item": "emociones_1",
+   "rol": "acud",
+   "peso": 0.166
+  },
+  {
+   "item": "emociones_1",
+   "rol": "estu",
+   "peso": 0.166
+  },
+  {
+   "item": "emociones_2",
+   "rol": "coor",
+   "peso": 0.51
+  },
+  {
+   "item": "emociones_2",
+   "rol": "doce",
+   "peso": 0.34
+  },
+  {
+   "item": "emociones_2",
+   "rol": "admi",
+   "peso": 0.05
+  },
+  {
+   "item": "emociones_2",
+   "rol": "acud",
+   "peso": 0.05
+  },
+  {
+   "item": "emociones_2",
+   "rol": "estu",
+   "peso": 0.05
+  },
+  {
+   "item": "emociones_3",
+   "rol": "coor",
+   "peso": 0.2
+  },
+  {
+   "item": "emociones_3",
+   "rol": "doce",
+   "peso": 0.2
+  },
+  {
+   "item": "emociones_3",
+   "rol": "admi",
+   "peso": 0.2
+  },
+  {
+   "item": "emociones_3",
+   "rol": "acud",
+   "peso": 0.2
+  },
+  {
+   "item": "emociones_3",
+   "rol": "estu",
+   "peso": 0.2
+  },
+  {
+   "item": "comunicacion_1",
+   "rol": "coor",
+   "peso": 0.35
+  },
+  {
+   "item": "comunicacion_1",
+   "rol": "doce",
+   "peso": 0.35
+  },
+  {
+   "item": "comunicacion_1",
+   "rol": "admi",
+   "peso": 0.1
+  },
+  {
+   "item": "comunicacion_1",
+   "rol": "acud",
+   "peso": 0.1
+  },
+  {
+   "item": "comunicacion_1",
+   "rol": "estu",
+   "peso": 0.1
+  },
+  {
+   "item": "comunicacion_2",
+   "rol": "coor",
+   "peso": 0.3
+  },
+  {
+   "item": "comunicacion_2",
+   "rol": "doce",
+   "peso": 0.2
+  },
+  {
+   "item": "comunicacion_2",
+   "rol": "admi",
+   "peso": 0.166
+  },
+  {
+   "item": "comunicacion_2",
+   "rol": "acud",
+   "peso": 0.166
+  },
+  {
+   "item": "comunicacion_2",
+   "rol": "estu",
+   "peso": 0.166
+  },
+  {
+   "item": "comunicacion_3",
+   "rol": "coor",
+   "peso": 0.25
+  },
+  {
+   "item": "comunicacion_3",
+   "rol": "doce",
+   "peso": 0.25
+  },
+  {
+   "item": "comunicacion_3",
+   "rol": "admi",
+   "peso": 0.166
+  },
+  {
+   "item": "comunicacion_3",
+   "rol": "acud",
+   "peso": 0.166
+  },
+  {
+   "item": "comunicacion_3",
+   "rol": "estu",
+   "peso": 0.166
+  },
+  {
+   "item": "colaborativo_1",
+   "rol": "coor",
+   "peso": 0.337
+  },
+  {
+   "item": "colaborativo_1",
+   "rol": "doce",
+   "peso": 0.337
+  },
+  {
+   "item": "colaborativo_1",
+   "rol": "admi",
+   "peso": 0.224
+  },
+  {
+   "item": "colaborativo_1",
+   "rol": "acud",
+   "peso": 0.05
+  },
+  {
+   "item": "colaborativo_1",
+   "rol": "estu",
+   "peso": 0.05
+  },
+  {
+   "item": "colaborativo_2",
+   "rol": "coor",
+   "peso": 0.337
+  },
+  {
+   "item": "colaborativo_2",
+   "rol": "doce",
+   "peso": 0.337
+  },
+  {
+   "item": "colaborativo_2",
+   "rol": "admi",
+   "peso": 0.224
+  },
+  {
+   "item": "colaborativo_2",
+   "rol": "acud",
+   "peso": 0.05
+  },
+  {
+   "item": "colaborativo_2",
+   "rol": "estu",
+   "peso": 0.05
+  },
+  {
+   "item": "colaborativo_3",
+   "rol": "coor",
+   "peso": 0.25
+  },
+  {
+   "item": "colaborativo_3",
+   "rol": "doce",
+   "peso": 0.25
+  },
+  {
+   "item": "colaborativo_3",
+   "rol": "admi",
+   "peso": 0.166
+  },
+  {
+   "item": "colaborativo_3",
+   "rol": "acud",
+   "peso": 0.166
+  },
+  {
+   "item": "colaborativo_3",
+   "rol": "estu",
+   "peso": 0.166
+  },
+  {
+   "item": "direccion_1",
+   "rol": "coor",
+   "peso": 0.425
+  },
+  {
+   "item": "direccion_1",
+   "rol": "doce",
+   "peso": 0.425
+  },
+  {
+   "item": "direccion_1",
+   "rol": "admi",
+   "peso": 0.05
+  },
+  {
+   "item": "direccion_1",
+   "rol": "acud",
+   "peso": 0.05
+  },
+  {
+   "item": "direccion_1",
+   "rol": "estu",
+   "peso": 0.05
+  },
+  {
+   "item": "direccion_2",
+   "rol": "coor",
+   "peso": 0.42
+  },
+  {
+   "item": "direccion_2",
+   "rol": "doce",
+   "peso": 0.28
+  },
+  {
+   "item": "direccion_2",
+   "rol": "admi",
+   "peso": 0.1
+  },
+  {
+   "item": "direccion_2",
+   "rol": "acud",
+   "peso": 0.1
+  },
+  {
+   "item": "direccion_2",
+   "rol": "estu",
+   "peso": 0.1
+  },
+  {
+   "item": "direccion_3",
+   "rol": "coor",
+   "peso": 0.25
+  },
+  {
+   "item": "direccion_3",
+   "rol": "doce",
+   "peso": 0.25
+  },
+  {
+   "item": "direccion_3",
+   "rol": "admi",
+   "peso": 0.166
+  },
+  {
+   "item": "direccion_3",
+   "rol": "acud",
+   "peso": 0.166
+  },
+  {
+   "item": "direccion_3",
+   "rol": "estu",
+   "peso": 0.166
+  },
+  {
+   "item": "orientacion_1",
+   "rol": "coor",
+   "peso": 0.25
+  },
+  {
+   "item": "orientacion_1",
+   "rol": "doce",
+   "peso": 0.25
+  },
+  {
+   "item": "orientacion_1",
+   "rol": "admi",
+   "peso": 0.166
+  },
+  {
+   "item": "orientacion_1",
+   "rol": "acud",
+   "peso": 0.166
+  },
+  {
+   "item": "orientacion_1",
+   "rol": "estu",
+   "peso": 0.166
+  },
+  {
+   "item": "orientacion_2",
+   "rol": "coor",
+   "peso": 0.425
+  },
+  {
+   "item": "orientacion_2",
+   "rol": "doce",
+   "peso": 0.425
+  },
+  {
+   "item": "orientacion_2",
+   "rol": "admi",
+   "peso": 0.05
+  },
+  {
+   "item": "orientacion_2",
+   "rol": "acud",
+   "peso": 0.05
+  },
+  {
+   "item": "orientacion_2",
+   "rol": "estu",
+   "peso": 0.05
+  },
+  {
+   "item": "orientacion_3",
+   "rol": "coor",
+   "peso": 0.2
+  },
+  {
+   "item": "orientacion_3",
+   "rol": "doce",
+   "peso": 0.2
+  },
+  {
+   "item": "orientacion_3",
+   "rol": "admi",
+   "peso": 0.2
+  },
+  {
+   "item": "orientacion_3",
+   "rol": "acud",
+   "peso": 0.2
+  },
+  {
+   "item": "orientacion_3",
+   "rol": "estu",
+   "peso": 0.2
+  },
+  {
+   "item": "convivencia_1",
+   "rol": "coor",
+   "peso": 0.25
+  },
+  {
+   "item": "convivencia_1",
+   "rol": "doce",
+   "peso": 0.25
+  },
+  {
+   "item": "convivencia_1",
+   "rol": "admi",
+   "peso": 0.166
+  },
+  {
+   "item": "convivencia_1",
+   "rol": "acud",
+   "peso": 0.166
+  },
+  {
+   "item": "convivencia_1",
+   "rol": "estu",
+   "peso": 0.166
+  },
+  {
+   "item": "convivencia_2",
+   "rol": "coor",
+   "peso": 0.35
+  },
+  {
+   "item": "convivencia_2",
+   "rol": "doce",
+   "peso": 0.35
+  },
+  {
+   "item": "convivencia_2",
+   "rol": "admi",
+   "peso": 0.1
+  },
+  {
+   "item": "convivencia_2",
+   "rol": "acud",
+   "peso": 0.1
+  },
+  {
+   "item": "convivencia_2",
+   "rol": "estu",
+   "peso": 0.1
+  },
+  {
+   "item": "convivencia_3",
+   "rol": "coor",
+   "peso": 0.2
+  },
+  {
+   "item": "convivencia_3",
+   "rol": "doce",
+   "peso": 0.2
+  },
+  {
+   "item": "convivencia_3",
+   "rol": "admi",
+   "peso": 0.2
+  },
+  {
+   "item": "convivencia_3",
+   "rol": "acud",
+   "peso": 0.2
+  },
+  {
+   "item": "convivencia_3",
+   "rol": "estu",
+   "peso": 0.2
+  },
+  {
+   "item": "evaluacion_1",
+   "rol": "coor",
+   "peso": 0.425
+  },
+  {
+   "item": "evaluacion_1",
+   "rol": "doce",
+   "peso": 0.425
+  },
+  {
+   "item": "evaluacion_1",
+   "rol": "admi",
+   "peso": 0.05
+  },
+  {
+   "item": "evaluacion_1",
+   "rol": "acud",
+   "peso": 0.05
+  },
+  {
+   "item": "evaluacion_1",
+   "rol": "estu",
+   "peso": 0.05
+  },
+  {
+   "item": "evaluacion_2",
+   "rol": "coor",
+   "peso": 0.35
+  },
+  {
+   "item": "evaluacion_2",
+   "rol": "doce",
+   "peso": 0.35
+  },
+  {
+   "item": "evaluacion_2",
+   "rol": "admi",
+   "peso": 0.1
+  },
+  {
+   "item": "evaluacion_2",
+   "rol": "acud",
+   "peso": 0.1
+  },
+  {
+   "item": "evaluacion_2",
+   "rol": "estu",
+   "peso": 0.1
+  },
+  {
+   "item": "evaluacion_3",
+   "rol": "coor",
+   "peso": 0.2
+  },
+  {
+   "item": "evaluacion_3",
+   "rol": "doce",
+   "peso": 0.3
+  },
+  {
+   "item": "evaluacion_3",
+   "rol": "admi",
+   "peso": 0.166
+  },
+  {
+   "item": "evaluacion_3",
+   "rol": "acud",
+   "peso": 0.166
+  },
+  {
+   "item": "evaluacion_3",
+   "rol": "estu",
+   "peso": 0.166
+  },
+  {
+   "item": "vision_1",
+   "rol": "coor",
+   "peso": 0.35
+  },
+  {
+   "item": "vision_1",
+   "rol": "doce",
+   "peso": 0.35
+  },
+  {
+   "item": "vision_1",
+   "rol": "admi",
+   "peso": 0.1
+  },
+  {
+   "item": "vision_1",
+   "rol": "acud",
+   "peso": 0.1
+  },
+  {
+   "item": "vision_1",
+   "rol": "estu",
+   "peso": 0.1
+  },
+  {
+   "item": "vision_2",
+   "rol": "coor",
+   "peso": 0.425
+  },
+  {
+   "item": "vision_2",
+   "rol": "doce",
+   "peso": 0.425
+  },
+  {
+   "item": "vision_2",
+   "rol": "admi",
+   "peso": 0.05
+  },
+  {
+   "item": "vision_2",
+   "rol": "acud",
+   "peso": 0.05
+  },
+  {
+   "item": "vision_2",
+   "rol": "estu",
+   "peso": 0.05
+  },
+  {
+   "item": "vision_3",
+   "rol": "coor",
+   "peso": 0.2
+  },
+  {
+   "item": "vision_3",
+   "rol": "doce",
+   "peso": 0.2
+  },
+  {
+   "item": "vision_3",
+   "rol": "admi",
+   "peso": 0.2
+  },
+  {
+   "item": "vision_3",
+   "rol": "acud",
+   "peso": 0.2
+  },
+  {
+   "item": "vision_3",
+   "rol": "estu",
+   "peso": 0.2
+  },
+  {
+   "item": "planeacion_1",
+   "rol": "coor",
+   "peso": 0.25
+  },
+  {
+   "item": "planeacion_1",
+   "rol": "doce",
+   "peso": 0.25
+  },
+  {
+   "item": "planeacion_1",
+   "rol": "admi",
+   "peso": 0.166
+  },
+  {
+   "item": "planeacion_1",
+   "rol": "acud",
+   "peso": 0.166
+  },
+  {
+   "item": "planeacion_1",
+   "rol": "estu",
+   "peso": 0.166
+  },
+  {
+   "item": "planeacion_2",
+   "rol": "coor",
+   "peso": 0.36
+  },
+  {
+   "item": "planeacion_2",
+   "rol": "doce",
+   "peso": 0.24
+  },
+  {
+   "item": "planeacion_2",
+   "rol": "admi",
+   "peso": 0.2
+  },
+  {
+   "item": "planeacion_2",
+   "rol": "acud",
+   "peso": 0.1
+  },
+  {
+   "item": "planeacion_2",
+   "rol": "estu",
+   "peso": 0.1
+  },
+  {
+   "item": "planeacion_3",
+   "rol": "coor",
+   "peso": 0.25
+  },
+  {
+   "item": "planeacion_3",
+   "rol": "doce",
+   "peso": 0.25
+  },
+  {
+   "item": "planeacion_3",
+   "rol": "admi",
+   "peso": 0.166
+  },
+  {
+   "item": "planeacion_3",
+   "rol": "acud",
+   "peso": 0.166
+  },
+  {
+   "item": "planeacion_3",
+   "rol": "estu",
+   "peso": 0.166
+  },
+  {
+   "item": "redes_1",
+   "rol": "coor",
+   "peso": 0.42
+  },
+  {
+   "item": "redes_1",
+   "rol": "doce",
+   "peso": 0.28
+  },
+  {
+   "item": "redes_1",
+   "rol": "admi",
+   "peso": 0.1
+  },
+  {
+   "item": "redes_1",
+   "rol": "acud",
+   "peso": 0.1
+  },
+  {
+   "item": "redes_1",
+   "rol": "estu",
+   "peso": 0.1
+  },
+  {
+   "item": "redes_2",
+   "rol": "coor",
+   "peso": 0.35
+  },
+  {
+   "item": "redes_2",
+   "rol": "doce",
+   "peso": 0.35
+  },
+  {
+   "item": "redes_2",
+   "rol": "admi",
+   "peso": 0.1
+  },
+  {
+   "item": "redes_2",
+   "rol": "acud",
+   "peso": 0.1
+  },
+  {
+   "item": "redes_2",
+   "rol": "estu",
+   "peso": 0.1
+  },
+  {
+   "item": "redes_3",
+   "rol": "coor",
+   "peso": 0.425
+  },
+  {
+   "item": "redes_3",
+   "rol": "doce",
+   "peso": 0.425
+  },
+  {
+   "item": "redes_3",
+   "rol": "admi",
+   "peso": 0.05
+  },
+  {
+   "item": "redes_3",
+   "rol": "acud",
+   "peso": 0.05
+  },
+  {
+   "item": "redes_3",
+   "rol": "estu",
+   "peso": 0.05
+  },
+  {
+   "item": "alianzas_1",
+   "rol": "coor",
+   "peso": 0.3
+  },
+  {
+   "item": "alianzas_1",
+   "rol": "doce",
+   "peso": 0.2
+  },
+  {
+   "item": "alianzas_1",
+   "rol": "admi",
+   "peso": 0.166
+  },
+  {
+   "item": "alianzas_1",
+   "rol": "acud",
+   "peso": 0.166
+  },
+  {
+   "item": "alianzas_1",
+   "rol": "estu",
+   "peso": 0.166
+  },
+  {
+   "item": "alianzas_2",
+   "rol": "coor",
+   "peso": 0.51
+  },
+  {
+   "item": "alianzas_2",
+   "rol": "doce",
+   "peso": 0.34
+  },
+  {
+   "item": "alianzas_2",
+   "rol": "admi",
+   "peso": 0.05
+  },
+  {
+   "item": "alianzas_2",
+   "rol": "acud",
+   "peso": 0.05
+  },
+  {
+   "item": "alianzas_2",
+   "rol": "estu",
+   "peso": 0.05
+  },
+  {
+   "item": "alianzas_3",
+   "rol": "coor",
+   "peso": 0.35
+  },
+  {
+   "item": "alianzas_3",
+   "rol": "doce",
+   "peso": 0.35
+  },
+  {
+   "item": "alianzas_3",
+   "rol": "admi",
+   "peso": 0.1
+  },
+  {
+   "item": "alianzas_3",
+   "rol": "acud",
+   "peso": 0.1
+  },
+  {
+   "item": "alianzas_3",
+   "rol": "estu",
+   "peso": 0.1
+  },
+  {
+   "item": "rendicion_1",
+   "rol": "coor",
+   "peso": 0.3
+  },
+  {
+   "item": "rendicion_1",
+   "rol": "doce",
+   "peso": 0.2
+  },
+  {
+   "item": "rendicion_1",
+   "rol": "admi",
+   "peso": 0.166
+  },
+  {
+   "item": "rendicion_1",
+   "rol": "acud",
+   "peso": 0.166
+  },
+  {
+   "item": "rendicion_1",
+   "rol": "estu",
+   "peso": 0.166
+  },
+  {
+   "item": "rendicion_2",
+   "rol": "coor",
+   "peso": 0.44
+  },
+  {
+   "item": "rendicion_2",
+   "rol": "doce",
+   "peso": 0.294
+  },
+  {
+   "item": "rendicion_2",
+   "rol": "admi",
+   "peso": 0.166
+  },
+  {
+   "item": "rendicion_2",
+   "rol": "acud",
+   "peso": 0.05
+  },
+  {
+   "item": "rendicion_2",
+   "rol": "estu",
+   "peso": 0.05
+  },
+  {
+   "item": "rendicion_3",
+   "rol": "coor",
+   "peso": 0.2
+  },
+  {
+   "item": "rendicion_3",
+   "rol": "doce",
+   "peso": 0.2
+  },
+  {
+   "item": "rendicion_3",
+   "rol": "admi",
+   "peso": 0.2
+  },
+  {
+   "item": "rendicion_3",
+   "rol": "acud",
+   "peso": 0.2
+  },
+  {
+   "item": "rendicion_3",
+   "rol": "estu",
+   "peso": 0.2
+  }
+ ]
+}
